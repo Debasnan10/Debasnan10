@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./A_banner_in_digital_graphic_design_features_Debasn.png" width="100%" />
+</p>
+
 # 🚀 **Debasnan Singh**
 
 ### **Technology Enthusiast • AI/LLMs • Cloud-Native Engineering • .NET • DevOps Automation**
