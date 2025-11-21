@@ -116,9 +116,23 @@ PostgreSQL • SQL Server • Redis • MySQL • MongoDB • DynamoDB
 
 ## 📬 **Connect with Me**
 
-📧 *[debasnansingh10@gmail.com](mailto:debasnansingh10@gmail.com)*
-🔗 *[https://www.linkedin.com/in/debasnan-singh-a155a4146/](https://www.linkedin.com/in/debasnan-singh-a155a4146/)*
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/debasnan-singh-a155a4146/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="50" height="50" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:debasnansingh10@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" 
+         alt="Gmail" width="50" height="50" />
+  </a>
+
+</p>
 
 ---
+
 
 **✨ *“Build smart. Automate fast. Ship real impact.”* ✨**
