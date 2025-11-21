@@ -106,7 +106,7 @@ PostgreSQL • SQL Server • Redis • MySQL • MongoDB • DynamoDB
 
 ## 📊 **GitHub Stats**
 
-![Debasnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasnan10\&show_icons=true\&theme=dark\&count_private=true)
+![Debasnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasnan10&show_icons=true&theme=dark&count_private=true&cache_seconds=300)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasnan10\&layout=compact\&theme=dark)
 
