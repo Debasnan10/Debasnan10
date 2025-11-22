@@ -19,7 +19,7 @@ I specialize in:
 
 ---
 
-## 🧠 **Tech Stack (Elite Edition)**
+## 🧠 **Tech Stack**
 
 ### 🔥 **AI & Machine Learning**
 
