@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./A_banner_in_digital_graphic_design_features_Debasn.png" width="100%" />
+</p>
+
+
 # 🚀 **Debasnan Singh**
 
 ### **Technology Enthusiast • AI/LLMs • Cloud-Native Engineering • .NET • DevOps Automation**
@@ -100,25 +105,25 @@ PostgreSQL • SQL Server • Redis • MySQL • MongoDB • DynamoDB
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Profile Stats
 
 <p align="center">
-  <!-- Profile Details Card -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasnan10&theme=dark" 
-    alt="Debasnan's GitHub Profile Details" 
-    width="100%" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasnan10&theme=dark" />
 </p>
 
 <p align="center">
-  <!-- Repos Per Language Card -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debasnan10&theme=dark" 
-    alt="Debasnan's Repos Per Language" 
-    width="50%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debasnan10&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debasnan10&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debasnan10&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debasnan10&theme=dark&utcOffset=5.5" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 📬 **Connect with Me**
@@ -127,14 +132,12 @@ PostgreSQL • SQL Server • Redis • MySQL • MongoDB • DynamoDB
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/debasnan-singh-a155a4146/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" />
   </a>
 
   <!-- Gmail -->
   <a href="mailto:debasnansingh10@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" 
-         alt="Gmail" width="50" height="50" />
+    <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="50" height="50" />
   </a>
 
 </p>
